@@ -1,0 +1,6 @@
+{
+  "name": "IceMovieInSUmmerTime",
+  "description": "Platformă Check-In & Festival de Film Hope 4 Humanity - IceMovie In SummerTime Ediția a IV-a",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
